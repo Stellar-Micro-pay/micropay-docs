@@ -14,4 +14,4 @@ The micropayments system is the consumption layer of a DAO-governed treasury eco
 Enable verifiable pay-per-use API access where treasury allocations are consumed transparently and auditable on-chain.
 
 This project is funded and governed by the Stellar Treasury system:
-https://github.com/YOUR-USERNAME/stellar-treasury
+https://github.com/Chibex-max/stellar-treasury

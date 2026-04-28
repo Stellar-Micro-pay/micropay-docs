@@ -3,7 +3,7 @@
 Documentation hub for the Stellar Soroban micropayments ecosystem and treasury integration model.
 
 This project is funded and governed by the Stellar Treasury system:
-https://github.com/YOUR-USERNAME/stellar-treasury
+https://github.com/Chibex-max/stellar-treasury
 
 ## Contents
 
