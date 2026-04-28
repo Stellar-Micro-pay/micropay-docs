@@ -75,7 +75,7 @@ No shared codebase exists between Treasury and Micropay. Integration is document
 - Micropay Backend: [github.com/Stellar-Micro-pay/micropay-backend](https://github.com/Stellar-Micro-pay/micropay-backend)
 - Micropay Contracts: [github.com/Stellar-Micro-pay/micropay-contracts](https://github.com/Stellar-Micro-pay/micropay-contracts)
 - Micropay Frontend: [github.com/Stellar-Micro-pay/micropay-frontend](https://github.com/Stellar-Micro-pay/micropay-frontend)
-- External DAO Treasury (separate org/repo): [github.com/Chibex-max/stellar-treasury](https://github.com/Chibex-max/stellar-treasury)
+- External DAO Treasury (separate org/repo): [github.com/Chibey-max/stellar-treasury](https://github.com/Chibey-max/stellar-treasury)
 
 ## License
 

@@ -5,7 +5,7 @@ This integration assumes treasury and micropay live in separate repositories and
 ## External Treasury Link
 
 Stellar Treasury repository:
-https://github.com/Chibex-max/stellar-treasury
+https://github.com/Chibey-max/stellar-treasury
 
 ## Required Configuration
 
