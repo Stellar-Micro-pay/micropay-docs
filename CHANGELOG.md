@@ -28,3 +28,4 @@
 - Milestone 24: incremental delivery checkpoint for micropay-docs
 - Milestone 25: incremental delivery checkpoint for micropay-docs
 - Milestone 26: incremental delivery checkpoint for micropay-docs
+- Milestone 27: incremental delivery checkpoint for micropay-docs
