@@ -13,3 +13,4 @@
 - Milestone 09: incremental delivery checkpoint for micropay-docs
 - Milestone 10: incremental delivery checkpoint for micropay-docs
 - Milestone 11: incremental delivery checkpoint for micropay-docs
+- Milestone 12: incremental delivery checkpoint for micropay-docs
